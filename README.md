@@ -1,6 +1,6 @@
-# Гоблин
+# Гоблин DOM
 
-[![Actions Status](https://github.com/Sofa-RV/ahj-dom-goblin-new/workflows/Build/badge.svg)](https://github.com/Sofa-RV/ahj-dom-goblin-new/actions)
+[![Actions Status](https://github.com/Sofa-RV/ahj-dom-goblin-new/workflows/main/badge.svg)](https://github.com/Sofa-RV/ahj-dom-goblin-new/actions)
 
 ## Демо
 https://sofa-rv.github.io/ahj-dom-goblin-new/
